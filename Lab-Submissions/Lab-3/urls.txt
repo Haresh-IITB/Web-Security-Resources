@@ -1,0 +1,5 @@
+http://websec-bodhi.duckdns.org:30000/course.php?courseid=3
+http://websec-bodhi.duckdns.org:30000/robots.txt
+http://websec-bodhi.duckdns.org:30000/js/script.js
+http://websec-bodhi.duckdns.org:30000/style.css
+http://websec-bodhi.duckdns.org:30000/index.php
