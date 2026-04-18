@@ -1,0 +1,2 @@
+What is the absolute file path where the "error" occured and you found the flag-3 in Local Variable?: <ANSWER-HERE>
+What is the name of the Global Variable where you found admin password(case-insensitive)?: <ANSWER-HERE>
